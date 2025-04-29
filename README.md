@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Максим Минин</h1>
+<p align="center">
+Python backend-разработчик | API | Telegram Bots | FastAPI | VPS деплой
+</p>
 
-<!--
-**mksmin/mksmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 О себе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Разрабатываю backend-приложения на **FastAPI + PostgreSQL**
+- 🤖 Пишу телеграм-ботов на **Aiogram 3.0**, использую **RabbitMQ** и **SQLAlchemy**
+- 🌐 Поднимаю продакшн: **VPS (Ubuntu), nginx, SSL (Certbot)**
+- 🔄 Автоматизирую процессы: от чат-ботов до обработки Excel и API-интеграций
+- 📈 Решаю алгоритмические задачи на CodeRun (аналог LeetCode): `15 лёгких + 10 средних`
+
+---
+
+## 🛠️ Стек
+
+```bash
+Python 3.11  |  FastAPI  |  Aiogram 3  |  SQLAlchemy  |  PostgreSQL
+Pydantic     |  RabbitMQ |  Jinja2     |  HTML/CSS/JS |  Alembic
+Docker (base)|  Nginx    |  Git        |  Ubuntu VPS  |  Postman
