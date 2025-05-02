@@ -1,18 +1,17 @@
-<h1 align="left">Привет, я Максим Минин</h1>
-<p align="left">
-Python backend-разработчик | API | Telegram Bots | FastAPI 
-</p>
+## Hi, I'm Maksim Minin
+Python Backend Developer | API | Telegram Bots | FastAPI
 
-## 🧩 О себе
-- Разрабатываю backend-приложения на **FastAPI + PostgreSQL**
-- Пишу телеграм-ботов на **Aiogram 3.0**, использую **RabbitMQ** и **SQLAlchemy**
-- Поднимаю продакшн: **VPS (Ubuntu), nginx, SSL (Certbot)**
-- Автоматизирую процессы: от чат-ботов до обработки Excel и API-интеграций
-- Решаю алгоритмические задачи на CodeRun (аналог LeetCode): `21 лёгкая + 9 средних`
+## About Me
+- I develop backend applications using FastAPI and PostgreSQL
+- I build Telegram bots with Aiogram 3.0, integrating RabbitMQ and SQLAlchemy
+- I deploy production environments: VPS (Ubuntu), Nginx, and SSL certificates (Certbot)
+- I automate workflows: from chatbots to Excel processing and API integrations
+- I solve algorithmic tasks on CodeRun (similar to LeetCode): completed `21 easy` and `9 medium` challenges
 
-## 🛠️ Стек
+## 🛠️ Tech Stack
 
-```bash
-Python 3.12  |  FastAPI  |  Aiogram 3  |  SQLAlchemy  |  PostgreSQL
-Pydantic     |  RabbitMQ |  Jinja2     |  HTML/CSS/JS |  Alembic
-Nginx        |  Git      |  Ubuntu VPS |  Postman
+| Backend      | Database    | DevOps         | Frontend         | Tools       |
+|--------------|--------------|----------------|------------------|-------------|
+| Python 3.12  | PostgreSQL   | Nginx           | HTML / CSS / JS   | Postman     |
+| FastAPI      | SQLAlchemy   | Ubuntu VPS      | Jinja2            | Git         |
+| Aiogram 3    | Pydantic     | RabbitMQ        |                  | Alembic     |
