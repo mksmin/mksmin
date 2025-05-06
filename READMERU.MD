@@ -1,4 +1,4 @@
-## [English](https://github.com/mksmin/mksmin/blob/main/README.md) | [Русский](#русский)
+##### [English](https://github.com/mksmin/mksmin/blob/main/README.md) | [Русский](#русский)
 
 ## Привет, я Максим Минин
 
@@ -19,17 +19,4 @@ Python Backend Developer | API | Telegram-боты | FastAPI
 | Python 3.12 | PostgreSQL  | Nginx      | HTML / CSS / JS | Postman     |
 | FastAPI     | SQLAlchemy  | Ubuntu VPS | Jinja2          | Git         |
 | Aiogram 3   | Pydantic    | RabbitMQ   |                 | Alembic     |
-
-
-
-Отличная идея! Для GitHub можно сделать переключение языков через простую кнопку или ссылку внутри README, но GitHub поддерживает только Markdown без JavaScript, так что полноценного переключателя там быть не может.
-
-**Самый практичный способ** — это:
-
-* Показать сразу два варианта, например, "Click here for English" / "Нажмите здесь для русского" — и через якоря (`#`) перескакивать к нужной части.
-* Или оформить текст сразу в две версии одна под другой.
-
-Вот как можно оформить:
-
-
 
