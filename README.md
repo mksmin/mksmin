@@ -1,3 +1,5 @@
+##### [English](#english) | [Русский]((https://github.com/mksmin/mksmin/blob/main/READMERU.md))
+
 ## Hi, I'm Maksim Minin
 Python Backend Developer | API | Telegram Bots | FastAPI
 
